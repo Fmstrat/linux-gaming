@@ -1,6 +1,8 @@
 # Installing BakkesMod for Rocket League in Linux
 
-Latest documentation available at: https://nowsci.com/#/linux-gaming/?id=installing-bakkesmod-for-rocket-league-in-linux
+Latest version available at: [https://nowsci.com/linux-gaming#installing-bakkesmod-for-rocket-league-in-linux](https://nowsci.com/linux-gaming#installing-bakkesmod-for-rocket-league-in-linux)
+
+# The Below May Be Outdated. Use the link above.
 
 While I have not tried this on Steam Deck yet, the process should work similarly since ProtonUp-Qt and SteamTinkerLaunch function basically the same way on SD. Please feel free to submit a PR to update this document with SD (or CentOS) specific instructions. This may seem complicated at first, but as you go through the steps you will realize it's pretty basic.
 
