@@ -1,6 +1,7 @@
 # Linux game guides
 
-Latest documentation available at: https://nowsci.com/#/linux-gaming/?id=linux-game-guides
+Latest versions available at: [https://nowsci.com/linux-gaming](https://nowsci.com/linux-gaming)
 
-- Rocket League
-    - [BakkesMod](rocketleague/BAKKESMOD.md)
+
+- ~~Rocket League~~
+    - ~~[BakkesMod](rocketleague/BAKKESMOD.md)~~
